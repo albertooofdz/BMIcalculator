@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IMCcalculator</string>
+    <string name="Peso">Peso:</string>
+    <string name="Altura">Altura:</string>
+
+
+
 </resources>
+

@@ -9,6 +9,14 @@
     <color name="white">#FFFFFFFF</color>
     <color name="ligthBlue">#8501FDF5</color>
     <color name="red">#9ADC1818</color>
+    <color name="whiteExp">#80FFFFFF</color>
+    <color name="mainBackgroundBlue">#2196F3</color>
+    <color name="cardsBlue">#BDBDBD</color>
+    <color name="sliderColor">#03A9F4</color>
+    <color name="sliderColorInactive">#04557A</color>
+
+
+
 
 
 </resources>
