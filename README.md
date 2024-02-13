@@ -1,2 +1,2 @@
-# IMCcalculator
+# BMIcalculator
 This is my first app :)
