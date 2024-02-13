@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IMCcalculator</string>
+    <string name="app_name">BMIcalculator</string>
     <string name="Peso">Peso:</string>
     <string name="Altura">Altura:</string>
 
